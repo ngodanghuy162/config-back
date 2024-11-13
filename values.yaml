@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   repository: ngodanghuy162/myrepo
   pullPolicy: IfNotPresent
-  tag: 1.6
+  tag: 1.9
 
 imagePullSecrets: []
 nameOverride: ""
